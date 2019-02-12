@@ -6,15 +6,14 @@ a.bluetxt:link{color:blue}
 a.largesize:hover{font-size:50pt;}
 a.act:active{color:green}
 body{
-background-color:grey
+background-color:blue
 }
 </style>
 <body>
 <a class=redtxt href="nature.jpeg" target=_blank style="float.left">home</a>
 <a class=bluetxt href="video.html" target=_blank>contant</a>
-<a class=largesize href="video.html" target=_blank>about us</a>
+<a class=largesize href="video.html" target=_blank>about us</a
 
-</body>
 </html>
 </head>
 </body>
